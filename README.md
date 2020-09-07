@@ -1,2 +1,2 @@
 # Hello-word
-Starting using git-hub
+Hey now I'm trying to use Github and doing my first commit which is simply the chages saving
